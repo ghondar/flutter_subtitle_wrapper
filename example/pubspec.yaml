@@ -22,7 +22,8 @@ dependencies:
 
   video_player:
     git:
-      url: 'https://github.com/cherlow/video_player.git'
+      url: 'https://github.com/cherlow/plugins.git'
+      path: packages/video_player/video_player
   subtitle_wrapper_package:
     path: ../
   # The following adds the Cupertino Icons font to your application.

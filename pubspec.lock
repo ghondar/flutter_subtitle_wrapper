@@ -293,10 +293,10 @@ packages:
   video_player:
     dependency: "direct main"
     description:
-      path: "."
+      path: "packages/video_player/video_player"
       ref: HEAD
-      resolved-ref: "205c3cc28e5ded1b2711806ddd3735669c7142be"
-      url: "https://github.com/cherlow/video_player.git"
+      resolved-ref: "9209537915adb7573882cdf3816153eea8ded1fe"
+      url: "https://github.com/cherlow/plugins.git"
     source: git
     version: "0.10.12"
   video_player_platform_interface:
